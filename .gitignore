@@ -2,7 +2,7 @@
 *.class
 
 #
-*.application.properties
+*.properties
 
 # Log file
 *.log
