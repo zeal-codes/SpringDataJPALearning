@@ -22,7 +22,6 @@ public class AuthorRepositoryTest {
                         .name("HC Verma")
                         .age(59)
                         .email("iitjee@gmail.com")
-                        .createdAt(LocalDateTime.now())
                         .build();
         authorRepository.save(author);
     }
